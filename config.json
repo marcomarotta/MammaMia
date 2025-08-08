@@ -1,7 +1,7 @@
 {
     "Siti": {
         "StreamingCommunity": {
-            "url": "https://streamingcommunityz.info",
+            "url": "https://streamingcommunityz.life",
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "VX_ForwardProxy": "0",
@@ -13,7 +13,7 @@
             "enabled": "1"
         },
         "Tantifilm": {
-            "url": "https://www.tantifilm.locker",
+            "url": "https://www.tantifilm.exchange",
             "TF_ForwardProxy": "0",
             "TF_PROXY": "0",
             "enabled": "1"
@@ -30,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.run",
+            "url": "https://cb01net.buzz",
             "CB_PROXY": "0",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
@@ -48,7 +48,7 @@
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserietv.world",
+            "url": "https://guardaserietv.app",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "0"
@@ -76,7 +76,7 @@
             "enabled": "1"
         },
         "DaddyLiveHD": {
-            "url": "https://dlhd.click",
+            "url": "https://thedaddy.dad",
             "enabled": "1"
         }
     },
