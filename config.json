@@ -1,7 +1,7 @@
 {
     "Siti": {
         "StreamingCommunity": {
-            "url": "https://streamingcommunityz.art",
+            "url": "https://streamingcommunityz.chat",
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "VX_ForwardProxy": "0",
@@ -13,7 +13,7 @@
             "enabled": "1"
         },
         "Tantifilm": {
-            "url": "https://www.tantifilm.bingo",
+            "url": "https://www.tantifilm.land",
             "TF_ForwardProxy": "0",
             "TF_PROXY": "0",
             "enabled": "1"
@@ -30,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.guru",
+            "url": "https://cb01net.pics",
             "CB_PROXY": "0",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
